@@ -1,0 +1,3 @@
+i) El speed up de asm con respecto al C normal sale menor que el speed up de C con respecto a Asm, esto implica que el tiempo de ejecucion del program en c es mayor al de asm.
+j) Se podria decir que el programa en assembler es 10 veces mas rapido que el programa en c.
+k) La actualizacion no fue favorable ya que ahora el rpograma en c esta tomando mas tiempo en ejecutarse, por eso auemnta el speed up C/ASM
