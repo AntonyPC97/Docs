@@ -1,0 +1,696 @@
+Ciudad,Pais,Casos,Muertes
+New York,United States,"359,926","23,282"
+New Jersey,United States,"153,104","11,081"
+Illinois,United States,"107,796","4,790"
+Massachusetts,United States,"91,662","6,304"
+California,United States,"90,631","3,708"
+Pennsylvania,United States,"66,983","5,096"
+Texas,United States,"54,509","1,506"
+Michigan,United States,"54,365","5,223"
+Florida,United States,"50,127","2,233"
+Maryland,United States,"45,495","2,130"
+Georgia,United States,"42,800","1,823"
+Connecticut,United States,"40,022","3,675"
+Louisiana,United States,"37,040","2,560"
+Virginia,United States,"36,244","1,171"
+Ohio,United States,"31,408","1,956"
+Indiana,United States,"30,901","1,812"
+Colorado,United States,"23,964","1,327"
+North Carolina,United States,"22,725",737
+Minnesota,United States,"19,845",852
+Tennessee,United States,"19,789",329
+Washington,United States,"19,585","1,055"
+Iowa,United States,"17,213",449
+Arizona,United States,"16,339",800
+Wisconsin,United States,"14,877",507
+Alabama,United States,"14,152",551
+Rhode Island,United States,"13,952",597
+Mississippi,United States,"13,005",616
+Nebraska,United States,"11,989",147
+Missouri,United States,"11,752",676
+South Carolina,United States,"9,895",425
+Kansas,United States,"8,958",185
+Delaware,United States,"8,690",324
+Kentucky,United States,"8,571",391
+Utah,United States,"8,260",97
+"Washington, D.C.",United States,"7,966",427
+Nevada,United States,"7,696",392
+New Mexico,United States,"6,795",308
+Oklahoma,United States,"5,960",311
+Arkansas,United States,"5,775",115
+South Dakota,United States,"4,468",50
+Buenos Aires,Argentina,"6,146",185
+Buenos Aires Province,Argentina,"3,864",185
+Chaco Province,Argentina,748,42
+Cordoba,Argentina,454,28
+Rio Negro,Argentina,347,17
+Santa Fe Province,Argentina,258,3
+Tierra del Fuego Province,Argentina,135,—
+Neuquen,Argentina,115,5
+Mendoza Province,Argentina,83,9
+Corrientes,Argentina,78,—
+La Rioja Province,Argentina,63,7
+Santa Cruz Province,Argentina,49,—
+Tucuman,Argentina,46,4
+Entre Rios,Argentina,29,—
+Misiones Province,Argentina,25,1
+Santiago del Estero Province,Argentina,21,—
+San Luis Province,Argentina,10,—
+Salta Province,Argentina,7,—
+Jujuy,Argentina,5,—
+La Pampa,Argentina,5,—
+Chubut Province,Argentina,4,—
+San Juan Province,Argentina,4,—
+Formosa Province,Argentina,0,0
+Catamarca Province,Argentina,0,0
+Tokyo,Japan,"5,138",271
+Osaka,Japan,"1,781",78
+Kanagawa,Japan,"1,325",75
+Hokkaido,Japan,"1,039",79
+Saitama,Japan,996,46
+Chiba,Japan,898,44
+Hyogo,Japan,699,40
+Fukuoka,Japan,662,25
+Aichi,Japan,510,34
+Kyoto,Japan,358,14
+Ishikawa,Japan,295,24
+Toyama,Japan,227,21
+Ibaraki,Japan,168,9
+Hiroshima,Japan,167,2
+Gifu,Japan,150,7
+Gunma,Japan,149,19
+Okinawa,Japan,142,6
+Fukui,Japan,122,8
+Shiga,Japan,100,1
+Nara,Japan,91,2
+Miyagi,Japan,88,1
+Niigata,Japan,82,—
+Fukushima,Japan,81,—
+Ehime,Japan,79,4
+Nagano,Japan,76,—
+Shizuoka,Japan,74,1
+Kochi,Japan,74,3
+Yamagata,Japan,69,—
+Tochigi,Japan,64,—
+Wakayama,Japan,63,3
+Yamanashi,Japan,60,—
+Oita,Japan,60,1
+Kumamoto,Japan,48,3
+Saga,Japan,47,—
+Mie,Japan,45,1
+Yamaguchi,Japan,37,—
+Kagawa,Japan,28,—
+Aomori,Japan,27,1
+Okayama,Japan,25,—
+Shimane,Japan,24,—
+-,Australia,"7,109",102
+Lombardy,Italy,"86,384","15,786"
+Piedmont,Italy,"30,089","3,757"
+Emilia-Romagna,Italy,"27,470","4,037"
+Veneto,Italy,"19,059","1,844"
+Tuscany,Italy,"10,035","1,009"
+Liguria,Italy,"9,409","1,407"
+Lazio,Italy,"7,589",669
+Marche,Italy,"6,700",990
+Campania,Italy,"4,733",404
+Apulia,Italy,"4,440",482
+Trentino,Italy,"4,388",455
+Sicily,Italy,"3,423",268
+Friuli-Venezia Giulia,Italy,"3,227",325
+Abruzzo,Italy,"3,220",394
+South Tyrol,Italy,"2,590",291
+Umbria,Italy,"1,429",74
+Sardinia,Italy,"1,358",128
+Aosta,Italy,"1,177",144
+Calabria,Italy,"1,175",96
+Molise,Italy,426,22
+Basilicata,Italy,411,27
+-,Bangladesh,"33,610",480
+South Holland,Netherlands,"9,408",—
+North Brabant,Netherlands,"8,692",—
+North Holland,Netherlands,"6,447",—
+Gelderland,Netherlands,"5,574",—
+Limburg,Netherlands,"4,534",—
+Utrecht,Netherlands,"3,354",—
+Overijssel,Netherlands,"2,911",—
+Flevoland,Netherlands,882,—
+Zeeland,Netherlands,640,—
+Friesland,Netherlands,598,—
+Drenthe,Netherlands,499,—
+Groningen,Netherlands,344,—
+Lima Region,Peru,"74,037",—
+Callao Region,Peru,"8,125",—
+Lambayeque,Peru,"5,836",—
+Piura,Peru,"3,812",—
+Loreto,Peru,"3,293",—
+La Libertad,Peru,"2,793",—
+Ucayali,Peru,"2,775",—
+Ancash,Peru,"2,722",—
+Arequipa,Peru,"2,373",—
+Ica,Peru,"1,863",—
+Junin,Peru,"1,375",—
+Tumbes,Peru,"1,032",—
+San Martin,Peru,938,—
+Cusco,Peru,793,—
+Huanuco,Peru,629,—
+Cajamarca,Peru,520,—
+Ayacucho,Peru,498,—
+Amazonas,Peru,437,—
+Moquegua,Peru,345,—
+Huancavelica,Peru,306,—
+Madre de Dios,Peru,304,—
+Tacna,Peru,291,—
+Pasco,Peru,288,—
+Puno,Peru,247,—
+Apurimac,Peru,122,—
+Hubei,Mainland China,"67,803","3,212"
+Guangdong Province,Mainland China,"1,532",8
+Henan,Mainland China,"1,276",22
+Zhejiang,Mainland China,"1,264",1
+Hunan,Mainland China,"1,019",4
+Anhui,Mainland China,990,6
+Jiangxi,Mainland China,937,1
+Shandong,Mainland China,780,7
+Jiangsu,Mainland China,651,0
+Beijing,Mainland China,587,8
+Chongqing,Mainland China,579,6
+Sichuan,Mainland China,559,3
+Shanghai,Mainland China,536,6
+Heilongjiang,Mainland China,524,13
+Fujian,Mainland China,350,1
+Hebei,Mainland China,327,6
+Shaanxi,Mainland China,256,3
+Guangxi,Mainland China,254,2
+Yunnan,Mainland China,184,2
+Tianjin,Mainland China,180,3
+Hainan,Mainland China,168,6
+Guizhou,Mainland China,147,2
+Liaoning,Mainland China,142,2
+Gansu,Mainland China,139,2
+Shanxi,Mainland China,138,0
+Inner Mongolia,Mainland China,118,1
+Jilin,Mainland China,98,1
+Xinjiang,Mainland China,76,3
+Ningxia,Mainland China,75,0
+Qinghai,Mainland China,18,0
+Tibet,Mainland China,1,0
+Guayas,Ecuador,"13,787","1,362"
+Pichincha,Ecuador,"3,405",256
+Manabi Province,Ecuador,"1,895",375
+Los Rios Province,Ecuador,"1,379",180
+El Oro,Ecuador,"1,025",164
+Santo Domingo de los Tsachilas Province,Ecuador,800,63
+Azuay,Ecuador,797,33
+Santa Elena Province,Ecuador,733,277
+Esmeraldas Province,Ecuador,640,71
+Chimborazo Province,Ecuador,368,100
+Loja,Ecuador,334,20
+Cotopaxi Province,Ecuador,329,46
+Canar Province,Ecuador,306,29
+Bolivar Province,Ecuador,298,22
+Pastaza Province,Ecuador,195,5
+Imbabura Province,Ecuador,190,12
+Provincia de Napo,Ecuador,166,10
+Orellana Province,Ecuador,163,4
+Zamora-Chinchipe Province,Ecuador,149,4
+Carchi Province,Ecuador,137,9
+Sucumbios Province,Ecuador,97,3
+Morona-Santiago Province,Ecuador,92,2
+Galapagos Islands,Ecuador,76,1
+Tungurahua,Ecuador,—,60
+Silesian Voivodeship,Poland,"6,982",191
+Masovian Voivodeship,Poland,"3,217",246
+Lower Silesian Voivodeship,Poland,"2,418",96
+Greater Poland Voivodeship,Poland,"2,055",144
+odz Voivodeship,Poland,"1,347",59
+Lesser Poland Voivodeship,Poland,"1,176",41
+Opole Voivodeship,Poland,593,45
+Kuyavian-Pomeranian Voivodeship,Poland,593,45
+Pomeranian Voivodeship,Poland,533,30
+West Pomeranian Voivodeship,Poland,522,19
+Lublin Voivodeship,Poland,434,15
+Podlaskie Voivodeship,Poland,419,9
+Swietokrzyskie,Poland,382,20
+Podkarpackie Voivodeship,Poland,378,35
+Warmian-Masurian Voivodeship,Poland,175,1
+Lubusz Voivodeship,Poland,103,—
+-,Pakistan,"54,601","1,133"
+Suceava County,Romania,"3,438",—
+Bucharest,Romania,"1,758",—
+Neamt County,Romania,871,—
+Botosani County,Romania,710,—
+Arad County,Romania,695,—
+Brasov County,Romania,685,—
+Mures County,Romania,661,—
+Hunedoara County,Romania,626,—
+Galati,Romania,571,—
+Vrancea County,Romania,570,—
+Bihor County,Romania,546,—
+Cluj County,Romania,538,—
+Timis County,Romania,498,—
+Bacau County,Romania,490,—
+Sibiu,Romania,483,—
+Iasi County,Romania,477,—
+Ilfov County,Romania,451,—
+Ialomita County,Romania,352,—
+Bistrita-Nasaud County,Romania,320,—
+Alba County,Romania,318,—
+Constanta County,Romania,269,—
+Dambovita County,Romania,258,—
+Arges County,Romania,235,—
+Covasna County,Romania,230,—
+Giurgiu County,Romania,211,—
+Dolj County,Romania,195,—
+Buzau County,Romania,158,—
+Vaslui County,Romania,157,—
+Tulcea County,Romania,141,—
+Teleorman County,Romania,130,—
+Gorj County,Romania,117,—
+Harghita County,Romania,115,—
+Caras-Severin County,Romania,112,—
+Mehedinti County,Romania,105,—
+Prahova,Romania,96,—
+Maramures County,Romania,94,—
+Salaj,Romania,85,—
+Calarasi County,Romania,80,—
+Olt County,Romania,75,—
+Satu Mare County,Romania,61,—
+-,Russia,"344,481","3,541"
+Mexico City,Mexico,"12,456","1,197"
+State of Mexico,Mexico,"7,570",453
+Baja California,Mexico,"3,040",518
+Tabasco,Mexico,"2,177",275
+Sinaloa,Mexico,"1,814",261
+Veracruz,Mexico,"1,700",222
+Puebla,Mexico,"1,338",180
+Quintana Roo,Mexico,"1,257",234
+Yucatan,Mexico,"1,025",68
+Morelos,Mexico,"1,021",142
+Tamaulipas,Mexico,890,55
+Chihuahua,Mexico,874,183
+Nuevo Leon,Mexico,776,49
+Michoacan,Mexico,768,81
+Jalisco,Mexico,767,69
+Sonora,Mexico,757,34
+Hidalgo,Mexico,748,141
+Guerrero,Mexico,743,101
+Guanajuato,Mexico,658,63
+Coahuila,Mexico,644,54
+Baja California Sur,Mexico,617,26
+Chiapas,Mexico,533,39
+Tlaxcala,Mexico,509,86
+Aguascalientes,Mexico,443,18
+San Luis Potosi,Mexico,399,19
+Oaxaca,Mexico,369,63
+Queretaro,Mexico,361,31
+Campeche,Mexico,311,35
+Nayarit,Mexico,287,26
+Zacatecas,Mexico,181,22
+Durango,Mexico,150,15
+Colima,Mexico,82,7
+Daegu,South Korea,"6,873",183
+Gyeongsangbuk-do,South Korea,"1,376",54
+Seoul,South Korea,768,4
+Gyeonggi-do,South Korea,760,18
+Chungcheong-do,South Korea,145,0
+Busan,South Korea,144,3
+Incheon,South Korea,143,0
+Gyeongsangnam-do,South Korea,123,0
+Chungcheongbuk-do,South Korea,59,0
+Gangwon-do,South Korea,56,2
+Ulsan,South Korea,50,1
+Sejong City,South Korea,47,0
+Daejeon,South Korea,45,1
+Gwangju,South Korea,30,0
+Jeollabuk-do,South Korea,21,0
+Jeollanam-do,South Korea,18,0
+Jeju-do,South Korea,14,0
+Community of Madrid,Spain,"67,049","8,931"
+Catalonia,Spain,"55,888","6,021"
+Castile and Leon,Spain,"18,627","1,960"
+Castile-La Mancha,Spain,"16,789","2,919"
+Basque Country,Spain,"13,421","1,483"
+Andalusia,Spain,"12,547","1,375"
+Valencian Community,Spain,"10,987","1,383"
+Galicia,Spain,"9,077",608
+Aragon,Spain,"5,588",848
+Navarre,Spain,"5,195",506
+La Rioja,Spain,"4,033",354
+Extremadura,Spain,"3,042",505
+Asturias,Spain,"2,374",307
+Canary Islands,Spain,"2,307",155
+Cantabria,Spain,"2,279",209
+Balearic Islands,Spain,"2,024",221
+Region of Murcia,Spain,"1,570",149
+Melilla,Spain,121,2
+Ceuta,Spain,119,4
+-,Israel,"16,712",279
+-,Turkey,"156,827","4,340"
+Makkah Province,Saudi Arabia,"28,654",290
+Riyadh Province,Saudi Arabia,"16,854",24
+Eastern Province,Saudi Arabia,"13,652",22
+Al Madinah Province,Saudi Arabia,"9,564",44
+Jazan,Saudi Arabia,941,1
+Tabuk Province,Saudi Arabia,777,1
+Al Qassim,Saudi Arabia,761,4
+Aseer Province,Saudi Arabia,571,3
+Northern Borders Province,Saudi Arabia,212,1
+Hail Province,Saudi Arabia,210,—
+Al Bahah Province,Saudi Arabia,148,—
+Najran,Saudi Arabia,132,—
+Al Jowf,Saudi Arabia,84,—
+State of Sao Paulo,Brazil,"76,871","5,773"
+State of Ceara,Brazil,"34,573","2,251"
+State of Rio de Janeiro,Brazil,"33,589","3,657"
+State of Amazonas,Brazil,"27,038","1,669"
+State of Pernambuco,Brazil,"25,760","2,057"
+State of Para,Brazil,"21,469","1,937"
+State of Maranhao,Brazil,"17,212",693
+State of Bahia,Brazil,"12,557",399
+State of Espirito Santo,Brazil,"9,520",397
+State of Paraiba,Brazil,"6,882",248
+State of Santa Catarina,Brazil,"6,458",100
+State of Minas Gerais,Brazil,"5,995",201
+Federal District,Brazil,"5,948",90
+State of Rio Grande do Sul,Brazil,"5,918",172
+State of Amapa,Brazil,"5,655",157
+State of Alagoas,Brazil,"5,302",280
+State of Sergipe,Brazil,"4,922",82
+State of Rio Grande do Norte,Brazil,"4,251",181
+State of Acre,Brazil,"3,343",80
+State of Piaui,Brazil,"3,074",93
+State of Parana,Brazil,"2,939",146
+State of Rondonia,Brazil,"2,774",106
+State of Roraima,Brazil,"2,306",83
+State of Goias,Brazil,"2,304",93
+State of Tocantins,Brazil,"2,205",49
+State of Mato Grosso,Brazil,"1,220",37
+State of Mato Grosso do Sul,Brazil,805,17
+Chernivtsi Oblast,Ukraine,"3,028",125
+Kyiv city,Ukraine,"1,583",28
+Kyiv Oblast,Ukraine,"1,419",30
+Rivne Oblast,Ukraine,"1,417",31
+Lviv Oblast,Ukraine,"1,333",35
+Ivano-Frankivsk Oblast,Ukraine,"1,277",74
+Ternopil Oblast,Ukraine,"1,115",24
+Zakarpattia Oblast,Ukraine,"1,061",26
+Kharkiv Oblast,Ukraine,910,38
+Vinnytsia Oblast,Ukraine,889,15
+Dnipropetrovsk Oblast,Ukraine,869,17
+Odessa Oblast,Ukraine,827,14
+Volyn Oblast,Ukraine,771,22
+Zhytomyr Oblast,Ukraine,626,13
+Kirovohrad Oblast,Ukraine,473,23
+Zaporizhia Oblast,Ukraine,410,12
+Cherkasy Oblast,Ukraine,388,16
+Khmelnytskyi Oblast,Ukraine,346,9
+Mykolaiv Oblast,Ukraine,280,7
+Poltava Oblast,Ukraine,266,11
+Kherson Oblast,Ukraine,177,2
+Sumy Oblast,Ukraine,166,4
+Donetsk Oblast,Ukraine,143,4
+Chernihiv Oblast,Ukraine,129,6
+Luhansk Oblast,Ukraine,43,0
+England,United Kingdom,"131,932","27,432"
+Greater London,United Kingdom,"18,000",—
+Scotland,United Kingdom,"13,929",—
+Wales,United Kingdom,"11,706",—
+Midlands,United Kingdom,"11,368",—
+North West,United Kingdom,"10,027",—
+North East and Yorkshire,United Kingdom,"9,059",—
+South East England,United Kingdom,"8,517",—
+East of England,United Kingdom,"6,002",—
+South West England,United Kingdom,"3,392",—
+Northern Ireland,United Kingdom,"1,911",—
+Akrotiri and Dhekelia,United Kingdom,10,0
+New York,United States,"359,926","23,282"
+New Jersey,United States,"153,104","11,081"
+Illinois,United States,"107,796","4,790"
+Massachusetts,United States,"91,662","6,304"
+California,United States,"90,631","3,708"
+Pennsylvania,United States,"66,983","5,096"
+Texas,United States,"54,509","1,506"
+Michigan,United States,"54,365","5,223"
+Florida,United States,"50,127","2,233"
+Maryland,United States,"45,495","2,130"
+Georgia,United States,"42,800","1,823"
+Connecticut,United States,"40,022","3,675"
+Louisiana,United States,"37,040","2,560"
+Virginia,United States,"36,244","1,171"
+Ohio,United States,"31,408","1,956"
+Indiana,United States,"30,901","1,812"
+Colorado,United States,"23,964","1,327"
+North Carolina,United States,"22,725",737
+Minnesota,United States,"19,845",852
+Tennessee,United States,"19,789",329
+Washington,United States,"19,585","1,055"
+Iowa,United States,"17,213",449
+Arizona,United States,"16,339",800
+Wisconsin,United States,"14,877",507
+Alabama,United States,"14,152",551
+Rhode Island,United States,"13,952",597
+Mississippi,United States,"13,005",616
+Nebraska,United States,"11,989",147
+Missouri,United States,"11,752",676
+South Carolina,United States,"9,895",425
+Kansas,United States,"8,958",185
+Delaware,United States,"8,690",324
+Kentucky,United States,"8,571",391
+Utah,United States,"8,260",97
+"Washington, D.C.",United States,"7,966",427
+Nevada,United States,"7,696",392
+New Mexico,United States,"6,795",308
+Oklahoma,United States,"5,960",311
+Arkansas,United States,"5,775",115
+South Dakota,United States,"4,468",50
+-,Colombia,"20,177",705
+Norte Region,Portugal,"16,953",—
+Lisboa Region,Portugal,"9,423",—
+"Centro Region, Portugal",Portugal,"3,728",—
+Faro District,Portugal,365,—
+Alentejo Region,Portugal,260,—
+Azores,Portugal,135,—
+Madeira,Portugal,97,—
+-,United Arab Emirates,"29,485",245
+Maharashtra,India,"47,190","1,577"
+Tamil Nadu,India,"15,512",103
+Gujarat,India,"13,664",829
+Delhi,India,"12,910",231
+Rajasthan,India,"6,742",160
+Madhya Pradesh,India,"6,371",281
+Uttar Pradesh,India,"6,017",155
+West Bengal,India,"3,459",269
+Andhra Pradesh,India,"2,757",56
+Bihar,India,"2,380",11
+Punjab,India,"2,045",39
+Karnataka,India,"1,959",42
+Telangana,India,"1,813",49
+Jammu and Kashmir,India,"1,569",21
+Odisha,India,"1,269",7
+Haryana,India,"1,131",16
+Kerala,India,795,4
+Jharkhand,India,351,4
+Assam,India,329,4
+Uttarakhand,India,244,2
+Chandigarh,India,225,3
+Chhattisgarh,India,214,—
+Tripura,India,189,—
+Himachal Pradesh,India,185,3
+Goa,India,55,—
+Ladakh,India,49,—
+Andaman and Nicobar Islands,India,33,—
+Manipur,India,29,—
+Puducherry,India,26,1
+Meghalaya,India,14,1
+Sikkim,India,1,—
+Arunachal Pradesh,India,1,—
+Nagaland,India,1,—
+Mizoram,India,1,—
+Lakshadweep,India,0,0
+Bavaria,Germany,"46,206","2,377"
+North Rhine-Westphalia,Germany,"37,223","1,563"
+Baden-Wurttemberg,Germany,"34,399","1,697"
+Lower Saxony,Germany,"11,578",572
+Hesse,Germany,"9,762",460
+Berlin,Germany,"6,637",191
+Rhineland-Palatinate,Germany,"6,590",227
+Saxony,Germany,"5,221",204
+Hamburg,Germany,"5,029",232
+Brandenburg,Germany,"3,214",154
+Schleswig-Holstein,Germany,"3,062",137
+Thuringia,Germany,"2,857",152
+Saarland,Germany,"2,713",157
+Saxony-Anhalt,Germany,"1,694",54
+Bremen,Germany,"1,299",41
+Mecklenburg-Vorpommern,Germany,760,20
+Jakarta,Indonesia,"6,634",501
+East Java,Indonesia,"3,663",283
+West Java,Indonesia,"2,091",128
+Central Java,Indonesia,"1,309",70
+South Sulawesi,Indonesia,"1,296",63
+Banten,Indonesia,789,66
+South Sumatra,Indonesia,736,25
+South Kalimantan,Indonesia,599,59
+Papua,Indonesia,556,6
+West Sumatra,Indonesia,478,24
+West Nusa Tenggara,Indonesia,478,8
+Bali,Indonesia,394,4
+North Sumatra,Indonesia,311,33
+Central Kalimantan,Indonesia,308,15
+East Kalimantan,Indonesia,276,3
+North Sulawesi,Indonesia,230,15
+Special Region of Yogyakarta,Indonesia,226,8
+South East Sulawesi,Indonesia,215,4
+West Kalimantan,Indonesia,168,4
+North Kalimantan,Indonesia,164,1
+Maluku,Indonesia,159,7
+Riau Islands,Indonesia,154,12
+West Papua,Indonesia,130,2
+Central Sulawesi,Indonesia,121,4
+Riau,Indonesia,111,6
+Lampung,Indonesia,109,7
+North Maluku,Indonesia,100,5
+Jambi,Indonesia,95,0
+West Sulawesi,Indonesia,86,2
+East Nusa Tenggara,Indonesia,79,1
+Bengkulu,Indonesia,69,2
+Gorontalo,Indonesia,58,2
+Bangka Belitung Islands,Indonesia,39,1
+Aceh,Indonesia,19,1
+Quebec,Canada,"47,411","3,984"
+Ontario,Canada,"25,500","2,073"
+Alberta,Canada,"6,818",135
+British Columbia,Canada,"2,517",157
+Nova Scotia,Canada,"1,050",58
+Saskatchewan,Canada,632,7
+Manitoba,Canada,292,7
+Newfoundland and Labrador,Canada,260,3
+New Brunswick,Canada,121,0
+Prince Edward Island,Canada,27,0
+Yukon,Canada,11,0
+Northwest Territories,Canada,5,0
+Nunavut,Canada,0,0
+Split-Dalmatia County,Croatia,549,35
+City of Zagreb,Croatia,478,24
+Osijek-Baranja County,Croatia,134,9
+Krapina-Zagorje County,Croatia,134,1
+Zagreb County,Croatia,131,0
+Dubrovnik-Neretva County,Croatia,114,8
+Koprivnica-Krizevci County,Croatia,92,12
+Istria County,Croatia,92,2
+Sibenik-Knin County,Croatia,89,1
+Zadar County,Croatia,87,1
+Primorje-Gorski Kotar County,Croatia,83,1
+Varazdin County,Croatia,51,0
+Brod-Posavina County,Croatia,43,1
+Vukovar-Srijem County,Croatia,41,0
+Sisak-Moslavina County,Croatia,36,0
+Karlovac County,Croatia,31,1
+Lika-Senj County,Croatia,20,1
+Bjelovar-Bilogora County,Croatia,12,0
+Virovitica-Podravina County,Croatia,11,1
+Meimurje County,Croatia,8,0
+Pozega-Slavonia County,Croatia,8,0
+Tehran Province,Iran,"5,098",—
+Isfahan Province,Iran,"1,979",—
+Mazandaran Province,Iran,"1,700",—
+Gilan Province,Iran,"1,191",—
+Qom Province,Iran,"1,178",—
+Alborz Province,Iran,"1,177",—
+Markazi Province,Iran,882,—
+Razavi Khorasan Province,Iran,858,—
+East Azerbaijan Province,Iran,813,—
+Yazd Province,Iran,725,—
+Qazvin Province,Iran,669,—
+Semnan Province,Iran,645,—
+Fars Province,Iran,505,—
+Lorestan Province,Iran,476,—
+Khuzestan Province,Iran,444,—
+West Azerbaijan Province,Iran,395,—
+Zanjan Province,Iran,394,—
+Golestan Province,Iran,391,—
+Ardabil Province,Iran,289,—
+Kermanshah Province,Iran,243,—
+Kurdistan Province,Iran,238,—
+Ilam Province,Iran,183,—
+South Khorasan Province,Iran,178,—
+Hamadan Province,Iran,175,—
+Kerman Province,Iran,169,—
+North Khorasan Province,Iran,165,—
+Hormozgan Province,Iran,148,—
+Sistan and Baluchestan Province,Iran,134,—
+Kohgiluyeh and Boyer-Ahmad Province,Iran,73,—
+Chaharmahal and Bakhtiari Province,Iran,68,—
+Bushehr Province,Iran,55,—
+Flanders,Belgium,"30,178",—
+Wallonia,Belgium,"17,366",—
+Brussels,Belgium,"5,507",—
+Vaud,Switzerland,"5,425",389
+Geneva,Switzerland,"5,123",259
+Zurich,Switzerland,"3,592",124
+Ticino,Switzerland,"3,287",269
+Valais,Switzerland,"1,905",146
+Canton of Bern,Switzerland,"1,874",90
+Aargau,Switzerland,"1,194",36
+Fribourg,Switzerland,"1,152",80
+Basel City,Switzerland,976,50
+Basel-Landschaft,Switzerland,838,32
+Grisons,Switzerland,824,45
+St. Gallen,Switzerland,807,33
+Lucerne,Switzerland,733,18
+Neuchatel,Switzerland,722,77
+Solothurn,Switzerland,439,15
+Thurgau,Switzerland,380,17
+Schwyz,Switzerland,307,22
+Jura,Switzerland,203,7
+Canton of Zug,Switzerland,199,8
+Glarus,Switzerland,128,12
+Nidwalden,Switzerland,123,3
+Appenzell Ausserrhoden,Switzerland,99,3
+Uri,Switzerland,93,7
+Obwalden,Switzerland,79,0
+Schaffhausen,Switzerland,78,6
+Appenzell Innerrhoden,Switzerland,25,—
+Stockholm County,Sweden,"10,777",—
+Vastra Gotaland County,Sweden,"4,530",—
+Ostergotland County,Sweden,"1,802",—
+Uppsala County,Sweden,"1,561",—
+Orebro County,Sweden,"1,537",—
+Sodermanland County,Sweden,"1,525",—
+Skane County,Sweden,"1,344",—
+Jonkoping County,Sweden,"1,216",—
+Vastmanland County,Sweden,"1,064",—
+Dalarna County,Sweden,"1,064",—
+Gavleborg County,Sweden,"1,027",—
+Kronoberg County,Sweden,665,—
+Halland County,Sweden,587,—
+Jamtland County,Sweden,544,—
+Vasternorrland County,Sweden,494,—
+Vasterbotten County,Sweden,437,—
+Varmland County,Sweden,347,—
+Norrbotten County,Sweden,343,—
+Kalmar County,Sweden,264,—
+Blekinge County,Sweden,109,—
+Gotland County,Sweden,67,—
+Capital Region of Denmark,Denmark,"6,360",—
+Region Zealand,Denmark,"1,803",—
+Central Denmark Region,Denmark,"1,585",—
+Region of Southern Denmark,Denmark,984,—
+North Denmark Region,Denmark,430,—
+-,France,"144,921","28,367"
+Santiago Metropolitan Region,Chile,"51,399",—
+Valparaiso,Chile,"2,116",44
+Antofagasta,Chile,"1,897",21
+Araucania,Chile,"1,774",45
+Tarapaca,Chile,"1,471",5
+Bio Bio,Chile,"1,354",10
+Nuble,Chile,"1,077",21
+Magallanes and Chilean Antarctica,Chile,997,—
+Maule,Chile,823,15
+Los Lagos,Chile,727,13
+"b""O'Higgins""",Chile,518,11
+Arica y Parinacota,Chile,482,7
+Coquimbo,Chile,294,2
+Los Rios,Chile,274,6
+Atacama,Chile,182,0
+Aysen,Chile,8,0

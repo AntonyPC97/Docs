@@ -1,0 +1,387 @@
+Ciudad;Pais;URL
+Guangdong Province;Mainland China;https://aqicn.org/map/guangdong/
+Henan;Mainland China;https://aqicn.org/city/china/zhengzhou/heyida/
+Zhejiang;Mainland China;https://aqicn.org/map/zhejiang/
+Hunan;Mainland China;https://aqicn.org/map/china/changsha/hunanshifandaxue/es/
+Anhui;Mainland China;https://aqicn.org/city/hefei/es/
+Jiangxi;Mainland China;https://aqicn.org/map/china/nanchang/shengwaiban/
+Shandong;Mainland China;https://aqicn.org/map/shandong/
+Jiangsu;Mainland China;https://aqicn.org/map/jiangsu/es/
+Chongqing;Mainland China;https://aqicn.org/city/chongqing/es/
+Sichuan;Mainland China;https://aqicn.org/map/china/yaan/chuannongda/
+Shanghai;Mainland China;https://aqicn.org/city/shanghai/es/
+Heilongjiang;Mainland China;https://aqicn.org/city/haerbin/
+Fujian;Mainland China;https://aqicn.org/city/quanzhou/
+Hebei;Mainland China;https://aqicn.org/map/hebei/
+Shaanxi;Mainland China;https://aqicn.org/map/shanxi/
+Guangxi;Mainland China;https://aqicn.org/city/nanning/
+Yunnan;Mainland China;https://aqicn.org/city/kunming/es/
+Tianjin;Mainland China;https://aqicn.org/city/tianjin/es/
+Hainan;Mainland China;https://aqicn.org/city/china/haikou/hainandaxue/es/
+Liaoning;Mainland China;https://aqicn.org/map/liaoning/
+Gansu;Mainland China;https://aqicn.org/city/lanzhou/
+Shanxi;Mainland China;https://aqicn.org/map/shanxi/es/
+Jilin;Mainland China;https://aqicn.org/city/jilin/es/
+Xinjiang;Mainland China;https://aqicn.org/map/china/wulumuqi/xinjiangnongkeyuannongchang/es/
+Ningxia;Mainland China;https://aqicn.org/city/yinchuan/
+Tibet;Mainland China;https://aqicn.org/city/china/lasa/xicangdaxue/
+Hokkaido;Japan;https://aqicn.org/map/hokkaido/es/
+Saitama;Japan;https://aqicn.org/city/saitama/es/
+Chiba;Japan;https://aqicn.org/city/chiba/es/
+Hyogo;Japan;https://aqicn.org/city/japan/kakogunharimamachi/harimamachiyakuba/
+Fukuoka;Japan;https://aqicn.org/city/fukuoka/
+Aichi;Japan;https://aqicn.org/city/japan/nagakuteshi/nagakutechugakko/
+Kyoto;Japan;https://aqicn.org/city/kyoto/es/
+Ishikawa;Japan;https://aqicn.org/city/japan/kahokuguntsubatamachi/tsubata/es/
+Toyama;Japan;https://aqicn.org/city/japan/toyamashi/toyamaiwase/es/
+Ibaraki;Japan;https://aqicn.org/city/japan/mitoshi/mitoishikawa/
+Hiroshima;Japan;https://aqicn.org/map/hiroshima/es/
+Gifu;Japan;https://aqicn.org/map/gifu/
+Gunma;Japan;https://aqicn.org/city/japan/maebashishi/eiseikankyokenkyujo/
+Fukui;Japan;https://aqicn.org/city/japan/fukuishi/fukui/es/
+Shiga;Japan;https://aqicn.org/city/japan/hikoneshi/hikone/
+Nara;Japan;https://aqicn.org/city/japan/kitakatsuragigunojimachi/oji/es/
+Ehime;Japan;https://aqicn.org/city/japan/jinzhishi/jinzhixu/
+Kochi;Japan;https://aqicn.org/map/japan/kochishi/kera/es/
+Shizuoka;Japan;https://aqicn.org/city/shizuoka/
+Wakayama;Japan;https://aqicn.org/city/wakayama/
+Oita;Japan;https://aqicn.org/city/oita/es/
+Kumamoto;Japan;https://aqicn.org/city/kumamoto/
+Mie;Japan;https://aqicn.org/city/japan/iseshi/isekoseichugakko/
+Araucania;Chile;
+Valparaíso;Chile;
+Bio Bio;Chile;
+Tarapacá;Chile;
+Ñuble;Chile;
+Los Lagos;Chile;
+Maule;Chile;
+O'Higgins;Chile;
+Arica y Parinacota;Chile;
+Coquimbo;Chile;
+Los Ríos;Chile;
+Atacama;Chile;
+Aysén;Chile;
+Bavaria;Germany;
+North Rhine-Westphalia;Germany;
+Baden-Württemberg;Germany;
+Lower Saxony;Germany;
+Rhineland-Palatinate;Germany;
+Saxony;Germany;
+Hamburg;Germany;
+Schleswig-Holstein;Germany;
+Thuringia;Germany;
+Saarland;Germany;
+Saxony-Anhalt;Germany;
+Bremen;Germany;
+Mecklenburg-Vorpommern;Germany;
+Jakarta;Indonesia;
+East Java;Indonesia;
+West Java;Indonesia;
+Central Java;Indonesia;
+South Sulawesi;Indonesia;
+Banten;Indonesia;
+South Sumatra;Indonesia;
+South Kalimantan;Indonesia;
+West Sumatra;Indonesia;
+Papua;Indonesia;
+West Nusa Tenggara;Indonesia;
+Bali;Indonesia;
+East Kalimantan;Indonesia;
+North Sumatra;Indonesia;
+Central Kalimantan;Indonesia;
+Special Region of Yogyakarta;Indonesia;
+South East Sulawesi;Indonesia;
+North Kalimantan;Indonesia;
+Riau Islands;Indonesia;
+West Kalimantan;Indonesia;
+North Sulawesi;Indonesia;
+Central Sulawesi;Indonesia;
+Maluku;Indonesia;
+Riau;Indonesia;
+West Papua;Indonesia;
+North Maluku;Indonesia;
+Lampung;Indonesia;
+Jambi;Indonesia;
+West Sulawesi;Indonesia;
+East Nusa Tenggara;Indonesia;
+Bengkulu;Indonesia;
+Bangka Belitung Islands;Indonesia;
+Gorontalo;Indonesia;
+Aceh;Indonesia;
+Quebec;Canada;
+Alberta;Canada;
+British Columbia;Canada;
+Nova Scotia;Canada;
+Saskatchewan;Canada;
+Manitoba;Canada;
+Newfoundland and Labrador;Canada;
+New Brunswick;Canada;
+Prince Edward Island;Canada;
+Yukon;Canada;
+Northwest Territories;Canada;
+Nunavut;Canada;
+Buenos Aires;Argentina;
+Buenos Aires Province;Argentina;
+Chaco Province;Argentina;
+Cordoba;Argentina;
+Río Negro;Argentina;
+Santa Fe Province;Argentina;
+Neuquen;Argentina;
+Mendoza Province;Argentina;
+La Rioja Province;Argentina;
+Tucumán;Argentina;
+Misiones Province;Argentina;
+Formosa Province;Argentina;
+Catamarca Province;Argentina;
+Maharashtra;India;
+Tamil Nadu;India;
+Gujarat;India;
+Delhi;India;
+Rajasthan;India;
+Madhya Pradesh;India;
+Uttar Pradesh;India;
+West Bengal;India;
+Andhra Pradesh;India;
+Punjab;India;
+Telangana;India;
+Bihar;India;
+Jammu and Kashmir;India;
+Karnataka;India;
+Haryana;India;
+Odisha;India;
+Kerala;India;
+Jharkhand;India;
+Chandigarh;India;
+Assam;India;
+Uttarakhand;India;
+Himachal Pradesh;India;
+Puducherry;India;
+Meghalaya;India;
+Sikkim;India;
+Lakshadweep;India;
+Split-Dalmatia County;Croatia;
+City of Zagreb;Croatia;
+Krapina-Zagorje County;Croatia;
+Osijek-Baranja County;Croatia;
+Zagreb County;Croatia;
+Dubrovnik-Neretva County;Croatia;
+Istria County;Croatia;
+Šibenik-Knin County;Croatia;
+Koprivnica-Križevci County;Croatia;
+Zadar County;Croatia;
+Primorje-Gorski Kotar County;Croatia;
+Varaždin County;Croatia;
+Vukovar-Srijem County;Croatia;
+Sisak-Moslavina County;Croatia;
+Brod-Posavina County;Croatia;
+Karlovac County;Croatia;
+Lika-Senj County;Croatia;
+Bjelovar-Bilogora County;Croatia;
+Virovitica-Podravina County;Croatia;
+Međimurje County;Croatia;
+Požega-Slavonia County;Croatia;
+State of São Paulo;Brazil;
+State of Ceará;Brazil;
+State of Rio de Janeiro;Brazil;
+State of Amazonas;Brazil;
+State of Pernambuco;Brazil;
+State of Pará;Brazil;
+State of Maranhão;Brazil;
+State of Bahia;Brazil;
+State of Espírito Santo;Brazil;
+State of Santa Catarina;Brazil;
+State of Paraíba;Brazil;
+State of Minas Gerais;Brazil;
+Federal District;Brazil;
+State of Alagoas;Brazil;
+State of Amapá;Brazil;
+State of Sergipe;Brazil;
+State of Rio Grande do Sul;Brazil;
+State of Rio Grande do Norte;Brazil;
+State of Acre;Brazil;
+State of Paraná;Brazil;
+State of Piauí;Brazil;
+State of Rondônia;Brazil;
+State of Roraima;Brazil;
+State of Goiás;Brazil;
+State of Tocantins;Brazil;
+State of Mato Grosso;Brazil;
+State of Mato Grosso do Sul;Brazil;
+Piedmont;Italy;
+Veneto;Italy;
+Tuscany;Italy;
+Liguria;Italy;
+Marche;Italy;
+Campania;Italy;
+Apulia;Italy;
+Trentino;Italy;
+Sicily;Italy;
+Friuli-Venezia Giulia;Italy;
+Abruzzo;Italy;
+Umbria;Italy;
+Sardinia;Italy;
+Aosta;Italy;
+Calabria;Italy;
+Molise;Italy;
+Basilicata;Italy;
+New York;United States;
+Illinois;United States;
+Michigan;United States;
+Texas;United States;
+Virginia;United States;
+Indiana;United States;
+Colorado;United States;
+North Carolina;United States;
+Washington;United States;
+Tennessee;United States;
+Minnesota;United States;
+Iowa;United States;
+Arizona;United States;
+Rhode Island;United States;
+Wisconsin;United States;
+Alabama;United States;
+Mississippi;United States;
+Missouri;United States;
+Nebraska;United States;
+South Carolina;United States;
+Kansas;United States;
+Kentucky;United States;
+Delaware;United States;
+Utah;United States;
+Washington; D.C.;United States
+Nevada;United States;
+New Mexico;United States;
+Oklahoma;United States;
+Arkansas;United States;
+South Dakota;United States;
+State of Mexico;Mexico;
+Baja California;Mexico;
+Tabasco;Mexico;
+Sinaloa;Mexico;
+Puebla;Mexico;
+Quintana Roo;Mexico;
+Yucatan;Mexico;
+Morelos;Mexico;
+Tamaulipas;Mexico;
+Chihuahua;Mexico;
+Nuevo Leon;Mexico;
+Michoacán;Mexico;
+Jalisco;Mexico;
+Sonora;Mexico;
+Hidalgo;Mexico;
+Guerrero;Mexico;
+Guanajuato;Mexico;
+Coahuila;Mexico;
+Baja California Sur;Mexico;
+Chiapas;Mexico;
+Tlaxcala;Mexico;
+Aguascalientes;Mexico;
+San Luis Potosi;Mexico;
+Oaxaca;Mexico;
+Querétaro;Mexico;
+Campeche;Mexico;
+Nayarit;Mexico;
+Zacatecas;Mexico;
+Durango;Mexico;
+Colima;Mexico;
+Vaud;Switzerland;
+Geneva;Switzerland;
+Zurich;Switzerland;
+Ticino;Switzerland;
+Valais;Switzerland;
+Canton of Bern;Switzerland;
+Aargau;Switzerland;
+Fribourg;Switzerland;
+Appenzell Ausserrhoden;Switzerland;
+Basel City;Switzerland;
+Basel-Landschaft;Switzerland;
+Grisons;Switzerland;
+St. Gallen;Switzerland;
+Lucerne;Switzerland;
+Neuchâtel;Switzerland;
+Solothurn;Switzerland;
+Thurgau;Switzerland;
+Schwyz;Switzerland;
+Jura;Switzerland;
+Canton of Zug;Switzerland;
+Glarus;Switzerland;
+Nidwalden;Switzerland;
+Uri;Switzerland;
+Obwalden;Switzerland;
+Schaffhausen;Switzerland;
+Castile and León;Spain;
+Castile-La Mancha;Spain;
+Andalusia;Spain;
+Valencian Community;Spain;
+Aragon;Spain;
+La Rioja;Spain;
+Extremadura;Spain;
+Asturias;Spain;
+Cantabria;Spain;
+Balearic Islands;Spain;
+Region of Murcia;Spain;
+Melilla;Spain;
+Ceuta;Spain;
+Silesian Voivodeship;Poland;
+Masovian Voivodeship;Poland;
+Lower Silesian Voivodeship;Poland;
+Greater Poland Voivodeship;Poland;
+Łódź Voivodeship;Poland;
+Lesser Poland Voivodeship;Poland;
+Kuyavian-Pomeranian Voivodeship;Poland;
+Pomeranian Voivodeship;Poland;
+West Pomeranian Voivodeship;Poland;
+Lublin Voivodeship;Poland;
+Podlaskie Voivodeship;Poland;
+Podkarpackie Voivodeship;Poland;
+Swietokrzyskie;Poland;
+Warmian-Masurian Voivodeship;Poland;
+England;United Kingdom;
+Akrotiri and Dhekelia;United Kingdom;
+Gyeongsangbuk-do;South Korea;
+Chungcheong-do;South Korea;
+Incheon;South Korea;
+Gyeongsangnam-do;South Korea;
+Chungcheongbuk-do;South Korea;
+Gangwon-do;South Korea;
+Ulsan;South Korea;
+Sejong City;South Korea;
+Daejeon;South Korea;
+Gwangju;South Korea;
+Jeollabuk-do;South Korea;
+Jeollanam-do;South Korea;
+Jeju-do;South Korea;
+Makkah Province;Saudi Arabia;
+Riyadh Province;Saudi Arabia;
+Eastern Province;Saudi Arabia;
+Al Madinah Province;Saudi Arabia;
+Jazan;Saudi Arabia;
+Tabuk Province;Saudi Arabia;
+Al Qassim;Saudi Arabia;
+Aseer Province;Saudi Arabia;
+Northern Borders Province;Saudi Arabia;
+Chernivtsi Oblast;Ukraine;
+Kyiv city;Ukraine;
+Kyiv Oblast;Ukraine;
+Ivano-Frankivsk Oblast;Ukraine;
+Rivne Oblast;Ukraine;
+Lviv Oblast;Ukraine;
+Ternopil Oblast;Ukraine;
+Zakarpattia Oblast;Ukraine;
+Dnipropetrovsk Oblast;Ukraine;
+Kharkiv Oblast;Ukraine;
+Odessa Oblast;Ukraine;
+Vinnytsia Oblast;Ukraine;
+Volyn Oblast;Ukraine;
+Zhytomyr Oblast;Ukraine;
+Kirovohrad Oblast;Ukraine;
+Zaporizhia Oblast;Ukraine;
+Cherkasy Oblast;Ukraine;
+Khmelnytskyi Oblast;Ukraine;
+Poltava Oblast;Ukraine;
+Mykolaiv Oblast;Ukraine;
+Kherson Oblast;Ukraine;
+Sumy Oblast;Ukraine;
+Donetsk Oblast;Ukraine;
+Chernihiv Oblast;Ukraine;
+Luhansk Oblast;Ukraine;

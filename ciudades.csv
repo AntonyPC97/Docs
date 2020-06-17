@@ -1,0 +1,99 @@
+﻿estacion,Ciudad,Pais,url,Comentarios
+Rochester,New york,United States,https://aqicn.org/city/usa/newyork/rochester/ ,"update O3/Fresh Kills west, wihout pm10"
+Newark,New Jersey,United States,https://aqicn.org/city/usa/newjersey/newark-firehouse/,without SO2
+worcester summer,Massachusetts,United States,https://aqicn.org/city/usa/massachusett/worcester/summer-st/,without SO2
+Visalia,California,United States,https://aqicn.org/city/california/tulare/visalia/,without SO2
+Harrisburg,Pennsylvania,United States,https://aqicn.org/city/usa/pennsylvania/harrisburg/,without SO2
+New Haven,Connecticut,United States,https://aqicn.org/city/usa/connecticut/new-haven-criscuolo-park/,without SO2
+Baton Rouge,Louisiana,United States,https://aqicn.org/city/usa/louisiana/baton-rouge-capitol-site/,
+Beltsville,Maryland,United States,https://aqicn.org/city/usa/maryland/hu-beltsville/,"without SO2, PM10"
+Duval,Florida,United States,https://aqicn.org/city/usa/florida/duval/mayo-clinic/,
+Ohio,Ohio,United States,https://aqicn.org/city/usa/ohio/taft/,
+South Dekalb,Georgia,United States,https://aqicn.org/city/georgia/south-dekalb/,without SO2
+CETESB,State of Sao Paulo,Brazil,https://aqicn.org/city/brazil/sao-paulo/itaim-paulista/,
+Community of Madrid,Community of Madrid,Spain,https://aqicn.org/city/madrid/,
+Barcelona,Catalonia,Spain,https://aqicn.org/city/spain/catalunya/barcelona-eixample/,without CO
+Asturias,Castile and Leon,Spain,https://aqicn.org/city/spain/asturias/castilla/,
+Erandio,Basque Country,Spain,https://aqicn.org/city/spain/pais-vasco/erandio/,
+Laza,Galicia,Spain,https://aqicn.org/city/spain/galicia/laza/,
+Tudela,Navarre,Spain,https://aqicn.org/city/spain/navarra/tudela/,
+San Agustin,Canary Islands,Spain,https://aqicn.org/city/spain/canarias/san-agustin/,
+Merate,Lombardy,Italy,https://aqicn.org/city/italy/lombardia/merate-/,
+Timavo,Emilia-Romagna,Italy,https://aqicn.org/city/italy/emilia-romagna/timavo/,without SO2
+Malagrotta,Lazio,Italy,https://aqicn.org/city/italy/lazio/roma/malagrotta/,without CO
+Laives,South Tyrol,Italy,https://aqicn.org/city/italy/bolzano-alto-adige/laives-leifers/,without CO
+Limburg,Hesse,Germany,https://aqicn.org/city/germany/hesse/limburg/,without CO
+Nauen,Brandenburg,Germany,https://aqicn.org/city/germany/brandenburg/nauen/,
+Konstanz,Baden-Wurttemberg,Germany,https://aqicn.org/city/germany/badenwurttemberg/konstanz/,"without CO, SO2"
+Berlin,Berlin,Germany,https://aqicn.org/city/germany/berlin/,"without CO,SO2,PM2.5"
+Silivri,Istanbul,Turkey,https://aqicn.org/city/turkey/istanbul/silivri/mthm/,
+Sihhiye,Ankara,Turkey,https://aqicn.org/city/turkey/ic-anadolu/ankara/sihhiye/,
+Zhaojiaba,Hubei,Mainland China,https://aqicn.org/city/hubei/ezhou/zhaojiaba/,
+Beijing,Beijing,Mainland China,https://aqicn.org/city/beijing/,
+Chatham,Ontario,Canada,https://aqicn.org/city/canada/ontario/chatham/,"without CO,SO2,PM10"
+Merced,Mexico City,Mexico,https://aqicn.org/city/mexico/mexico/merced/,
+Xalapa,Veracruz,Mexico,https://aqicn.org/city/mexico/veracruz/xalapa/stps/,
+Antofagasta,Antofagasta,Chile,https://aqicn.org/city/chile/antofagasta/,"without CO, O3, NO2"
+Zurich,Zurich,Switzerland,https://aqicn.org/city/switzerland/zurich-kaserne/,Falta CO
+kozle,Opole Voivodeship,Poland,https://aqicn.org/city/poland/opolski/k-kozle/,
+Nagaoka,Tokyo,Japan,https://aqicn.org/city/japan/nishitamagunmizuhomachi/tokyokanjonagaoka/,
+Osaka,Osaka,Japan,https://aqicn.org/city/japan/sakaishimiharaku/miharatanjo/,
+Tajimacho,Kanagawa,Japan,https://aqicn.org/city/japan/kawasaki-shi-kawasaki-ku-/kuni-chuan-saki/,
+Mihara,Okinawa,Japan,https://aqicn.org/city/japan/okinawashi/okinawa/,
+Carvajal,Bogota,Colombia,https://aqicn.org/city/colombia/bogota/carvajal-sevillana/,
+Haeun Daegu,Daegu,South Korea,https://aqicn.org/city/korea/busan/haeun-daegu/,
+Paju-Si,Gyeonggi-do,South Korea,https://aqicn.org/city/korea/gyeonggi/paju-si//,
+Seoul City,Seoul,South Korea,https://aqicn.org/city/seoul/,
+Busan City,Busan,South Korea,https://aqicn.org/city/busan/,
+Paris,Paris,France,https://aqicn.org/city/paris/,
+Vesoul,Bourgogne,France,https://aqicn.org/city/france/franche-comte/vesoul/,
+Lyon,Lyon,France,https://aqicn.org/city/france/rhonealpes/rhone/lyon-centre/,
+-,Guangdong Province,Mainland China,https://aqicn.org/map/guangdong/,
+-,Henan,Mainland China,https://aqicn.org/city/china/zhengzhou/heyida/,
+-,Zhejiang,Mainland China,https://aqicn.org/map/zhejiang/,
+-,Hunan,Mainland China,https://aqicn.org/map/china/changsha/hunanshifandaxue/es/,
+-,Anhui,Mainland China,https://aqicn.org/city/hefei/es/,
+-,Jiangxi,Mainland China,https://aqicn.org/map/china/nanchang/shengwaiban/,
+-,Shandong,Mainland China,https://aqicn.org/map/shandong/,
+-,Jiangsu,Mainland China,https://aqicn.org/map/jiangsu/es/,
+-,Chongqing,Mainland China,https://aqicn.org/city/chongqing/es/,
+-,Sichuan,Mainland China,https://aqicn.org/map/china/yaan/chuannongda/,
+-,Shanghai,Mainland China,https://aqicn.org/city/shanghai/es/,
+-,Heilongjiang,Mainland China,https://aqicn.org/city/haerbin/,
+-,Fujian,Mainland China,https://aqicn.org/city/quanzhou/,
+-,Hebei,Mainland China,https://aqicn.org/map/hebei/,
+-,Shaanxi,Mainland China,https://aqicn.org/map/shanxi/,
+-,Guangxi,Mainland China,https://aqicn.org/city/nanning/,
+-,Yunnan,Mainland China,https://aqicn.org/city/kunming/es/,
+-,Tianjin,Mainland China,https://aqicn.org/city/tianjin/es/,
+-,Hainan,Mainland China,https://aqicn.org/city/china/haikou/hainandaxue/es/,
+-,Liaoning,Mainland China,https://aqicn.org/map/liaoning/,
+-,Gansu,Mainland China,https://aqicn.org/city/lanzhou/,
+-,Shanxi,Mainland China,https://aqicn.org/map/shanxi/es/,
+-,Jilin,Mainland China,https://aqicn.org/city/jilin/es/,
+-,Xinjiang,Mainland China,https://aqicn.org/map/china/wulumuqi/xinjiangnongkeyuannongchang/es/,
+-,Ningxia,Mainland China,https://aqicn.org/city/yinchuan/,
+-,Tibeta,Mainland China,https://aqicn.org/city/china/lasa/xicangdaxue/,
+-,Hokkaido,Japan,https://aqicn.org/map/hokkaido/es/,
+-,Saitama,Japan,https://aqicn.org/city/saitama/es/,
+-,Chiba,Japan,https://aqicn.org/city/chiba/es/,
+-,Hyogo,Japan,https://aqicn.org/city/japan/kakogunharimamachi/harimamachiyakuba/,
+-,Fukuoka,Japan,https://aqicn.org/city/fukuoka/,
+-,Aichi,Japan,https://aqicn.org/city/japan/nagakuteshi/nagakutechugakko/,
+-,Kyoto,Japan,https://aqicn.org/city/kyoto/es/,
+-,Ishikawa,Japan,https://aqicn.org/city/japan/kahokuguntsubatamachi/tsubata/es/,
+-,Toyama,Japan,https://aqicn.org/city/japan/toyamashi/toyamaiwase/es/,
+-,Ibaraki,Japan,https://aqicn.org/city/japan/mitoshi/mitoishikawa/,
+-,Hiroshima,Japan,https://aqicn.org/map/hiroshima/es/,
+-,Gifu,Japan,https://aqicn.org/map/gifu/,
+-,Gunma,Japan,https://aqicn.org/city/japan/maebashishi/eiseikankyokenkyujo/,
+-,Fukui,Japan,https://aqicn.org/city/japan/fukuishi/fukui/es/,
+-,Shiga,Japan,https://aqicn.org/city/japan/hikoneshi/hikone/,
+-,Nara,Japan,https://aqicn.org/city/japan/kitakatsuragigunojimachi/oji/es/,
+-,Ehime,Japan,https://aqicn.org/city/japan/jinzhishi/jinzhixu/,
+-,Kochi,Japan,https://aqicn.org/map/japan/kochishi/kera/es/,
+-,Shizuoka,Japan,https://aqicn.org/city/shizuoka/,
+-,Wakayama,Japan,https://aqicn.org/city/wakayama/,
+-,Oita,Japan,https://aqicn.org/city/oita/es/,
+-,Kumamoto,Japan,https://aqicn.org/city/kumamoto/,
+-,Mie,Japan,https://aqicn.org/city/japan/iseshi/isekoseichugakko/,

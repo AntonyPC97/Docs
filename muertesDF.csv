@@ -1,0 +1,656 @@
+Ciudad,Pais,Casos,Muertes
+New York,United States,359926.0,23282.0
+New Jersey,United States,153104.0,11081.0
+Illinois,United States,107796.0,4790.0
+Massachusetts,United States,91662.0,6304.0
+California,United States,90631.0,3708.0
+Pennsylvania,United States,66983.0,5096.0
+Texas,United States,54509.0,1506.0
+Michigan,United States,54365.0,5223.0
+Florida,United States,50127.0,2233.0
+Maryland,United States,45495.0,2130.0
+Georgia,United States,42800.0,1823.0
+Connecticut,United States,40022.0,3675.0
+Louisiana,United States,37040.0,2560.0
+Virginia,United States,36244.0,1171.0
+Ohio,United States,31408.0,1956.0
+Indiana,United States,30901.0,1812.0
+Colorado,United States,23964.0,1327.0
+North Carolina,United States,22725.0,737.0
+Minnesota,United States,19845.0,852.0
+Tennessee,United States,19789.0,329.0
+Washington,United States,19585.0,1055.0
+Iowa,United States,17213.0,449.0
+Arizona,United States,16339.0,800.0
+Wisconsin,United States,14877.0,507.0
+Alabama,United States,14152.0,551.0
+Rhode Island,United States,13952.0,597.0
+Mississippi,United States,13005.0,616.0
+Nebraska,United States,11989.0,147.0
+Missouri,United States,11752.0,676.0
+South Carolina,United States,9895.0,425.0
+Kansas,United States,8958.0,185.0
+Delaware,United States,8690.0,324.0
+Kentucky,United States,8571.0,391.0
+Utah,United States,8260.0,97.0
+"Washington, D.C.",United States,7966.0,427.0
+Nevada,United States,7696.0,392.0
+New Mexico,United States,6795.0,308.0
+Oklahoma,United States,5960.0,311.0
+Arkansas,United States,5775.0,115.0
+South Dakota,United States,4468.0,50.0
+Buenos Aires,Argentina,6146.0,185.0
+Buenos Aires Province,Argentina,3864.0,185.0
+Chaco Province,Argentina,748.0,42.0
+Cordoba,Argentina,454.0,28.0
+Rio Negro,Argentina,347.0,17.0
+Santa Fe Province,Argentina,258.0,3.0
+Tierra del Fuego Province,Argentina,135.0,
+Neuquen,Argentina,115.0,5.0
+Mendoza Province,Argentina,83.0,9.0
+Corrientes,Argentina,78.0,
+La Rioja Province,Argentina,63.0,7.0
+Santa Cruz Province,Argentina,49.0,
+Tucuman,Argentina,46.0,4.0
+Entre Rios,Argentina,29.0,
+Misiones Province,Argentina,25.0,1.0
+Santiago del Estero Province,Argentina,21.0,
+San Luis Province,Argentina,10.0,
+Salta Province,Argentina,7.0,
+Jujuy,Argentina,5.0,
+La Pampa,Argentina,5.0,
+Chubut Province,Argentina,4.0,
+San Juan Province,Argentina,4.0,
+Formosa Province,Argentina,0.0,0.0
+Catamarca Province,Argentina,0.0,0.0
+Tokyo,Japan,5138.0,271.0
+Osaka,Japan,1781.0,78.0
+Kanagawa,Japan,1325.0,75.0
+Hokkaido,Japan,1039.0,79.0
+Saitama,Japan,996.0,46.0
+Chiba,Japan,898.0,44.0
+Hyogo,Japan,699.0,40.0
+Fukuoka,Japan,662.0,25.0
+Aichi,Japan,510.0,34.0
+Kyoto,Japan,358.0,14.0
+Ishikawa,Japan,295.0,24.0
+Toyama,Japan,227.0,21.0
+Ibaraki,Japan,168.0,9.0
+Hiroshima,Japan,167.0,2.0
+Gifu,Japan,150.0,7.0
+Gunma,Japan,149.0,19.0
+Okinawa,Japan,142.0,6.0
+Fukui,Japan,122.0,8.0
+Shiga,Japan,100.0,1.0
+Nara,Japan,91.0,2.0
+Miyagi,Japan,88.0,1.0
+Niigata,Japan,82.0,
+Fukushima,Japan,81.0,
+Ehime,Japan,79.0,4.0
+Nagano,Japan,76.0,
+Shizuoka,Japan,74.0,1.0
+Kochi,Japan,74.0,3.0
+Yamagata,Japan,69.0,
+Tochigi,Japan,64.0,
+Wakayama,Japan,63.0,3.0
+Yamanashi,Japan,60.0,
+Oita,Japan,60.0,1.0
+Kumamoto,Japan,48.0,3.0
+Saga,Japan,47.0,
+Mie,Japan,45.0,1.0
+Yamaguchi,Japan,37.0,
+Kagawa,Japan,28.0,
+Aomori,Japan,27.0,1.0
+Okayama,Japan,25.0,
+Shimane,Japan,24.0,
+,Australia,7109.0,102.0
+Lombardy,Italy,86384.0,15786.0
+Piedmont,Italy,30089.0,3757.0
+Emilia-Romagna,Italy,27470.0,4037.0
+Veneto,Italy,19059.0,1844.0
+Tuscany,Italy,10035.0,1009.0
+Liguria,Italy,9409.0,1407.0
+Lazio,Italy,7589.0,669.0
+Marche,Italy,6700.0,990.0
+Campania,Italy,4733.0,404.0
+Apulia,Italy,4440.0,482.0
+Trentino,Italy,4388.0,455.0
+Sicily,Italy,3423.0,268.0
+Friuli-Venezia Giulia,Italy,3227.0,325.0
+Abruzzo,Italy,3220.0,394.0
+South Tyrol,Italy,2590.0,291.0
+Umbria,Italy,1429.0,74.0
+Sardinia,Italy,1358.0,128.0
+Aosta,Italy,1177.0,144.0
+Calabria,Italy,1175.0,96.0
+Molise,Italy,426.0,22.0
+Basilicata,Italy,411.0,27.0
+,Bangladesh,33610.0,480.0
+South Holland,Netherlands,9408.0,
+North Brabant,Netherlands,8692.0,
+North Holland,Netherlands,6447.0,
+Gelderland,Netherlands,5574.0,
+Limburg,Netherlands,4534.0,
+Utrecht,Netherlands,3354.0,
+Overijssel,Netherlands,2911.0,
+Flevoland,Netherlands,882.0,
+Zeeland,Netherlands,640.0,
+Friesland,Netherlands,598.0,
+Drenthe,Netherlands,499.0,
+Groningen,Netherlands,344.0,
+Lima Region,Peru,74037.0,
+Callao Region,Peru,8125.0,
+Lambayeque,Peru,5836.0,
+Piura,Peru,3812.0,
+Loreto,Peru,3293.0,
+La Libertad,Peru,2793.0,
+Ucayali,Peru,2775.0,
+Ancash,Peru,2722.0,
+Arequipa,Peru,2373.0,
+Ica,Peru,1863.0,
+Junin,Peru,1375.0,
+Tumbes,Peru,1032.0,
+San Martin,Peru,938.0,
+Cusco,Peru,793.0,
+Huanuco,Peru,629.0,
+Cajamarca,Peru,520.0,
+Ayacucho,Peru,498.0,
+Amazonas,Peru,437.0,
+Moquegua,Peru,345.0,
+Huancavelica,Peru,306.0,
+Madre de Dios,Peru,304.0,
+Tacna,Peru,291.0,
+Pasco,Peru,288.0,
+Puno,Peru,247.0,
+Apurimac,Peru,122.0,
+Hubei,Mainland China,67803.0,3212.0
+Guangdong Province,Mainland China,1532.0,8.0
+Henan,Mainland China,1276.0,22.0
+Zhejiang,Mainland China,1264.0,1.0
+Hunan,Mainland China,1019.0,4.0
+Anhui,Mainland China,990.0,6.0
+Jiangxi,Mainland China,937.0,1.0
+Shandong,Mainland China,780.0,7.0
+Jiangsu,Mainland China,651.0,0.0
+Beijing,Mainland China,587.0,8.0
+Chongqing,Mainland China,579.0,6.0
+Sichuan,Mainland China,559.0,3.0
+Shanghai,Mainland China,536.0,6.0
+Heilongjiang,Mainland China,524.0,13.0
+Fujian,Mainland China,350.0,1.0
+Hebei,Mainland China,327.0,6.0
+Shaanxi,Mainland China,256.0,3.0
+Guangxi,Mainland China,254.0,2.0
+Yunnan,Mainland China,184.0,2.0
+Tianjin,Mainland China,180.0,3.0
+Hainan,Mainland China,168.0,6.0
+Guizhou,Mainland China,147.0,2.0
+Liaoning,Mainland China,142.0,2.0
+Gansu,Mainland China,139.0,2.0
+Shanxi,Mainland China,138.0,0.0
+Inner Mongolia,Mainland China,118.0,1.0
+Jilin,Mainland China,98.0,1.0
+Xinjiang,Mainland China,76.0,3.0
+Ningxia,Mainland China,75.0,0.0
+Qinghai,Mainland China,18.0,0.0
+Tibet,Mainland China,1.0,0.0
+Guayas,Ecuador,13787.0,1362.0
+Pichincha,Ecuador,3405.0,256.0
+Manabi Province,Ecuador,1895.0,375.0
+Los Rios Province,Ecuador,1379.0,180.0
+El Oro,Ecuador,1025.0,164.0
+Santo Domingo de los Tsachilas Province,Ecuador,800.0,63.0
+Azuay,Ecuador,797.0,33.0
+Santa Elena Province,Ecuador,733.0,277.0
+Esmeraldas Province,Ecuador,640.0,71.0
+Chimborazo Province,Ecuador,368.0,100.0
+Loja,Ecuador,334.0,20.0
+Cotopaxi Province,Ecuador,329.0,46.0
+Canar Province,Ecuador,306.0,29.0
+Bolivar Province,Ecuador,298.0,22.0
+Pastaza Province,Ecuador,195.0,5.0
+Imbabura Province,Ecuador,190.0,12.0
+Provincia de Napo,Ecuador,166.0,10.0
+Orellana Province,Ecuador,163.0,4.0
+Zamora-Chinchipe Province,Ecuador,149.0,4.0
+Carchi Province,Ecuador,137.0,9.0
+Sucumbios Province,Ecuador,97.0,3.0
+Morona-Santiago Province,Ecuador,92.0,2.0
+Galapagos Islands,Ecuador,76.0,1.0
+Tungurahua,Ecuador,,60.0
+Silesian Voivodeship,Poland,6982.0,191.0
+Masovian Voivodeship,Poland,3217.0,246.0
+Lower Silesian Voivodeship,Poland,2418.0,96.0
+Greater Poland Voivodeship,Poland,2055.0,144.0
+odz Voivodeship,Poland,1347.0,59.0
+Lesser Poland Voivodeship,Poland,1176.0,41.0
+Opole Voivodeship,Poland,593.0,45.0
+Kuyavian-Pomeranian Voivodeship,Poland,593.0,45.0
+Pomeranian Voivodeship,Poland,533.0,30.0
+West Pomeranian Voivodeship,Poland,522.0,19.0
+Lublin Voivodeship,Poland,434.0,15.0
+Podlaskie Voivodeship,Poland,419.0,9.0
+Swietokrzyskie,Poland,382.0,20.0
+Podkarpackie Voivodeship,Poland,378.0,35.0
+Warmian-Masurian Voivodeship,Poland,175.0,1.0
+Lubusz Voivodeship,Poland,103.0,
+,Pakistan,54601.0,1133.0
+Suceava County,Romania,3438.0,
+Bucharest,Romania,1758.0,
+Neamt County,Romania,871.0,
+Botosani County,Romania,710.0,
+Arad County,Romania,695.0,
+Brasov County,Romania,685.0,
+Mures County,Romania,661.0,
+Hunedoara County,Romania,626.0,
+Galati,Romania,571.0,
+Vrancea County,Romania,570.0,
+Bihor County,Romania,546.0,
+Cluj County,Romania,538.0,
+Timis County,Romania,498.0,
+Bacau County,Romania,490.0,
+Sibiu,Romania,483.0,
+Iasi County,Romania,477.0,
+Ilfov County,Romania,451.0,
+Ialomita County,Romania,352.0,
+Bistrita-Nasaud County,Romania,320.0,
+Alba County,Romania,318.0,
+Constanta County,Romania,269.0,
+Dambovita County,Romania,258.0,
+Arges County,Romania,235.0,
+Covasna County,Romania,230.0,
+Giurgiu County,Romania,211.0,
+Dolj County,Romania,195.0,
+Buzau County,Romania,158.0,
+Vaslui County,Romania,157.0,
+Tulcea County,Romania,141.0,
+Teleorman County,Romania,130.0,
+Gorj County,Romania,117.0,
+Harghita County,Romania,115.0,
+Caras-Severin County,Romania,112.0,
+Mehedinti County,Romania,105.0,
+Prahova,Romania,96.0,
+Maramures County,Romania,94.0,
+Salaj,Romania,85.0,
+Calarasi County,Romania,80.0,
+Olt County,Romania,75.0,
+Satu Mare County,Romania,61.0,
+,Russia,344481.0,3541.0
+Mexico City,Mexico,12456.0,1197.0
+State of Mexico,Mexico,7570.0,453.0
+Baja California,Mexico,3040.0,518.0
+Tabasco,Mexico,2177.0,275.0
+Sinaloa,Mexico,1814.0,261.0
+Veracruz,Mexico,1700.0,222.0
+Puebla,Mexico,1338.0,180.0
+Quintana Roo,Mexico,1257.0,234.0
+Yucatan,Mexico,1025.0,68.0
+Morelos,Mexico,1021.0,142.0
+Tamaulipas,Mexico,890.0,55.0
+Chihuahua,Mexico,874.0,183.0
+Nuevo Leon,Mexico,776.0,49.0
+Michoacan,Mexico,768.0,81.0
+Jalisco,Mexico,767.0,69.0
+Sonora,Mexico,757.0,34.0
+Hidalgo,Mexico,748.0,141.0
+Guerrero,Mexico,743.0,101.0
+Guanajuato,Mexico,658.0,63.0
+Coahuila,Mexico,644.0,54.0
+Baja California Sur,Mexico,617.0,26.0
+Chiapas,Mexico,533.0,39.0
+Tlaxcala,Mexico,509.0,86.0
+Aguascalientes,Mexico,443.0,18.0
+San Luis Potosi,Mexico,399.0,19.0
+Oaxaca,Mexico,369.0,63.0
+Queretaro,Mexico,361.0,31.0
+Campeche,Mexico,311.0,35.0
+Nayarit,Mexico,287.0,26.0
+Zacatecas,Mexico,181.0,22.0
+Durango,Mexico,150.0,15.0
+Colima,Mexico,82.0,7.0
+Daegu,South Korea,6873.0,183.0
+Gyeongsangbuk-do,South Korea,1376.0,54.0
+Seoul,South Korea,768.0,4.0
+Gyeonggi-do,South Korea,760.0,18.0
+Chungcheong-do,South Korea,145.0,0.0
+Busan,South Korea,144.0,3.0
+Incheon,South Korea,143.0,0.0
+Gyeongsangnam-do,South Korea,123.0,0.0
+Chungcheongbuk-do,South Korea,59.0,0.0
+Gangwon-do,South Korea,56.0,2.0
+Ulsan,South Korea,50.0,1.0
+Sejong City,South Korea,47.0,0.0
+Daejeon,South Korea,45.0,1.0
+Gwangju,South Korea,30.0,0.0
+Jeollabuk-do,South Korea,21.0,0.0
+Jeollanam-do,South Korea,18.0,0.0
+Jeju-do,South Korea,14.0,0.0
+Community of Madrid,Spain,67049.0,8931.0
+Catalonia,Spain,55888.0,6021.0
+Castile and Leon,Spain,18627.0,1960.0
+Castile-La Mancha,Spain,16789.0,2919.0
+Basque Country,Spain,13421.0,1483.0
+Andalusia,Spain,12547.0,1375.0
+Valencian Community,Spain,10987.0,1383.0
+Galicia,Spain,9077.0,608.0
+Aragon,Spain,5588.0,848.0
+Navarre,Spain,5195.0,506.0
+La Rioja,Spain,4033.0,354.0
+Extremadura,Spain,3042.0,505.0
+Asturias,Spain,2374.0,307.0
+Canary Islands,Spain,2307.0,155.0
+Cantabria,Spain,2279.0,209.0
+Balearic Islands,Spain,2024.0,221.0
+Region of Murcia,Spain,1570.0,149.0
+Melilla,Spain,121.0,2.0
+Ceuta,Spain,119.0,4.0
+,Israel,16712.0,279.0
+,Turkey,156827.0,4340.0
+Makkah Province,Saudi Arabia,28654.0,290.0
+Riyadh Province,Saudi Arabia,16854.0,24.0
+Eastern Province,Saudi Arabia,13652.0,22.0
+Al Madinah Province,Saudi Arabia,9564.0,44.0
+Jazan,Saudi Arabia,941.0,1.0
+Tabuk Province,Saudi Arabia,777.0,1.0
+Al Qassim,Saudi Arabia,761.0,4.0
+Aseer Province,Saudi Arabia,571.0,3.0
+Northern Borders Province,Saudi Arabia,212.0,1.0
+Hail Province,Saudi Arabia,210.0,
+Al Bahah Province,Saudi Arabia,148.0,
+Najran,Saudi Arabia,132.0,
+Al Jowf,Saudi Arabia,84.0,
+State of Sao Paulo,Brazil,76871.0,5773.0
+State of Ceara,Brazil,34573.0,2251.0
+State of Rio de Janeiro,Brazil,33589.0,3657.0
+State of Amazonas,Brazil,27038.0,1669.0
+State of Pernambuco,Brazil,25760.0,2057.0
+State of Para,Brazil,21469.0,1937.0
+State of Maranhao,Brazil,17212.0,693.0
+State of Bahia,Brazil,12557.0,399.0
+State of Espirito Santo,Brazil,9520.0,397.0
+State of Paraiba,Brazil,6882.0,248.0
+State of Santa Catarina,Brazil,6458.0,100.0
+State of Minas Gerais,Brazil,5995.0,201.0
+Federal District,Brazil,5948.0,90.0
+State of Rio Grande do Sul,Brazil,5918.0,172.0
+State of Amapa,Brazil,5655.0,157.0
+State of Alagoas,Brazil,5302.0,280.0
+State of Sergipe,Brazil,4922.0,82.0
+State of Rio Grande do Norte,Brazil,4251.0,181.0
+State of Acre,Brazil,3343.0,80.0
+State of Piaui,Brazil,3074.0,93.0
+State of Parana,Brazil,2939.0,146.0
+State of Rondonia,Brazil,2774.0,106.0
+State of Roraima,Brazil,2306.0,83.0
+State of Goias,Brazil,2304.0,93.0
+State of Tocantins,Brazil,2205.0,49.0
+State of Mato Grosso,Brazil,1220.0,37.0
+State of Mato Grosso do Sul,Brazil,805.0,17.0
+Chernivtsi Oblast,Ukraine,3028.0,125.0
+Kyiv city,Ukraine,1583.0,28.0
+Kyiv Oblast,Ukraine,1419.0,30.0
+Rivne Oblast,Ukraine,1417.0,31.0
+Lviv Oblast,Ukraine,1333.0,35.0
+Ivano-Frankivsk Oblast,Ukraine,1277.0,74.0
+Ternopil Oblast,Ukraine,1115.0,24.0
+Zakarpattia Oblast,Ukraine,1061.0,26.0
+Kharkiv Oblast,Ukraine,910.0,38.0
+Vinnytsia Oblast,Ukraine,889.0,15.0
+Dnipropetrovsk Oblast,Ukraine,869.0,17.0
+Odessa Oblast,Ukraine,827.0,14.0
+Volyn Oblast,Ukraine,771.0,22.0
+Zhytomyr Oblast,Ukraine,626.0,13.0
+Kirovohrad Oblast,Ukraine,473.0,23.0
+Zaporizhia Oblast,Ukraine,410.0,12.0
+Cherkasy Oblast,Ukraine,388.0,16.0
+Khmelnytskyi Oblast,Ukraine,346.0,9.0
+Mykolaiv Oblast,Ukraine,280.0,7.0
+Poltava Oblast,Ukraine,266.0,11.0
+Kherson Oblast,Ukraine,177.0,2.0
+Sumy Oblast,Ukraine,166.0,4.0
+Donetsk Oblast,Ukraine,143.0,4.0
+Chernihiv Oblast,Ukraine,129.0,6.0
+Luhansk Oblast,Ukraine,43.0,0.0
+England,United Kingdom,131932.0,27432.0
+Greater London,United Kingdom,18000.0,
+Scotland,United Kingdom,13929.0,
+Wales,United Kingdom,11706.0,
+Midlands,United Kingdom,11368.0,
+North West,United Kingdom,10027.0,
+North East and Yorkshire,United Kingdom,9059.0,
+South East England,United Kingdom,8517.0,
+East of England,United Kingdom,6002.0,
+South West England,United Kingdom,3392.0,
+Northern Ireland,United Kingdom,1911.0,
+Akrotiri and Dhekelia,United Kingdom,10.0,0.0
+,Colombia,20177.0,705.0
+Norte Region,Portugal,16953.0,
+Lisboa Region,Portugal,9423.0,
+"Centro Region, Portugal",Portugal,3728.0,
+Faro District,Portugal,365.0,
+Alentejo Region,Portugal,260.0,
+Azores,Portugal,135.0,
+Madeira,Portugal,97.0,
+,United Arab Emirates,29485.0,245.0
+Maharashtra,India,47190.0,1577.0
+Tamil Nadu,India,15512.0,103.0
+Gujarat,India,13664.0,829.0
+Delhi,India,12910.0,231.0
+Rajasthan,India,6742.0,160.0
+Madhya Pradesh,India,6371.0,281.0
+Uttar Pradesh,India,6017.0,155.0
+West Bengal,India,3459.0,269.0
+Andhra Pradesh,India,2757.0,56.0
+Bihar,India,2380.0,11.0
+Punjab,India,2045.0,39.0
+Karnataka,India,1959.0,42.0
+Telangana,India,1813.0,49.0
+Jammu and Kashmir,India,1569.0,21.0
+Odisha,India,1269.0,7.0
+Haryana,India,1131.0,16.0
+Kerala,India,795.0,4.0
+Jharkhand,India,351.0,4.0
+Assam,India,329.0,4.0
+Uttarakhand,India,244.0,2.0
+Chandigarh,India,225.0,3.0
+Chhattisgarh,India,214.0,
+Tripura,India,189.0,
+Himachal Pradesh,India,185.0,3.0
+Goa,India,55.0,
+Ladakh,India,49.0,
+Andaman and Nicobar Islands,India,33.0,
+Manipur,India,29.0,
+Puducherry,India,26.0,1.0
+Meghalaya,India,14.0,1.0
+Sikkim,India,1.0,
+Arunachal Pradesh,India,1.0,
+Nagaland,India,1.0,
+Mizoram,India,1.0,
+Lakshadweep,India,0.0,0.0
+Bavaria,Germany,46206.0,2377.0
+North Rhine-Westphalia,Germany,37223.0,1563.0
+Baden-Wurttemberg,Germany,34399.0,1697.0
+Lower Saxony,Germany,11578.0,572.0
+Hesse,Germany,9762.0,460.0
+Berlin,Germany,6637.0,191.0
+Rhineland-Palatinate,Germany,6590.0,227.0
+Saxony,Germany,5221.0,204.0
+Hamburg,Germany,5029.0,232.0
+Brandenburg,Germany,3214.0,154.0
+Schleswig-Holstein,Germany,3062.0,137.0
+Thuringia,Germany,2857.0,152.0
+Saarland,Germany,2713.0,157.0
+Saxony-Anhalt,Germany,1694.0,54.0
+Bremen,Germany,1299.0,41.0
+Mecklenburg-Vorpommern,Germany,760.0,20.0
+Jakarta,Indonesia,6634.0,501.0
+East Java,Indonesia,3663.0,283.0
+West Java,Indonesia,2091.0,128.0
+Central Java,Indonesia,1309.0,70.0
+South Sulawesi,Indonesia,1296.0,63.0
+Banten,Indonesia,789.0,66.0
+South Sumatra,Indonesia,736.0,25.0
+South Kalimantan,Indonesia,599.0,59.0
+Papua,Indonesia,556.0,6.0
+West Sumatra,Indonesia,478.0,24.0
+West Nusa Tenggara,Indonesia,478.0,8.0
+Bali,Indonesia,394.0,4.0
+North Sumatra,Indonesia,311.0,33.0
+Central Kalimantan,Indonesia,308.0,15.0
+East Kalimantan,Indonesia,276.0,3.0
+North Sulawesi,Indonesia,230.0,15.0
+Special Region of Yogyakarta,Indonesia,226.0,8.0
+South East Sulawesi,Indonesia,215.0,4.0
+West Kalimantan,Indonesia,168.0,4.0
+North Kalimantan,Indonesia,164.0,1.0
+Maluku,Indonesia,159.0,7.0
+Riau Islands,Indonesia,154.0,12.0
+West Papua,Indonesia,130.0,2.0
+Central Sulawesi,Indonesia,121.0,4.0
+Riau,Indonesia,111.0,6.0
+Lampung,Indonesia,109.0,7.0
+North Maluku,Indonesia,100.0,5.0
+Jambi,Indonesia,95.0,0.0
+West Sulawesi,Indonesia,86.0,2.0
+East Nusa Tenggara,Indonesia,79.0,1.0
+Bengkulu,Indonesia,69.0,2.0
+Gorontalo,Indonesia,58.0,2.0
+Bangka Belitung Islands,Indonesia,39.0,1.0
+Aceh,Indonesia,19.0,1.0
+Quebec,Canada,47411.0,3984.0
+Ontario,Canada,25500.0,2073.0
+Alberta,Canada,6818.0,135.0
+British Columbia,Canada,2517.0,157.0
+Nova Scotia,Canada,1050.0,58.0
+Saskatchewan,Canada,632.0,7.0
+Manitoba,Canada,292.0,7.0
+Newfoundland and Labrador,Canada,260.0,3.0
+New Brunswick,Canada,121.0,0.0
+Prince Edward Island,Canada,27.0,0.0
+Yukon,Canada,11.0,0.0
+Northwest Territories,Canada,5.0,0.0
+Nunavut,Canada,0.0,0.0
+Split-Dalmatia County,Croatia,549.0,35.0
+City of Zagreb,Croatia,478.0,24.0
+Osijek-Baranja County,Croatia,134.0,9.0
+Krapina-Zagorje County,Croatia,134.0,1.0
+Zagreb County,Croatia,131.0,0.0
+Dubrovnik-Neretva County,Croatia,114.0,8.0
+Koprivnica-Krizevci County,Croatia,92.0,12.0
+Istria County,Croatia,92.0,2.0
+Sibenik-Knin County,Croatia,89.0,1.0
+Zadar County,Croatia,87.0,1.0
+Primorje-Gorski Kotar County,Croatia,83.0,1.0
+Varazdin County,Croatia,51.0,0.0
+Brod-Posavina County,Croatia,43.0,1.0
+Vukovar-Srijem County,Croatia,41.0,0.0
+Sisak-Moslavina County,Croatia,36.0,0.0
+Karlovac County,Croatia,31.0,1.0
+Lika-Senj County,Croatia,20.0,1.0
+Bjelovar-Bilogora County,Croatia,12.0,0.0
+Virovitica-Podravina County,Croatia,11.0,1.0
+Meimurje County,Croatia,8.0,0.0
+Pozega-Slavonia County,Croatia,8.0,0.0
+Tehran Province,Iran,5098.0,
+Isfahan Province,Iran,1979.0,
+Mazandaran Province,Iran,1700.0,
+Gilan Province,Iran,1191.0,
+Qom Province,Iran,1178.0,
+Alborz Province,Iran,1177.0,
+Markazi Province,Iran,882.0,
+Razavi Khorasan Province,Iran,858.0,
+East Azerbaijan Province,Iran,813.0,
+Yazd Province,Iran,725.0,
+Qazvin Province,Iran,669.0,
+Semnan Province,Iran,645.0,
+Fars Province,Iran,505.0,
+Lorestan Province,Iran,476.0,
+Khuzestan Province,Iran,444.0,
+West Azerbaijan Province,Iran,395.0,
+Zanjan Province,Iran,394.0,
+Golestan Province,Iran,391.0,
+Ardabil Province,Iran,289.0,
+Kermanshah Province,Iran,243.0,
+Kurdistan Province,Iran,238.0,
+Ilam Province,Iran,183.0,
+South Khorasan Province,Iran,178.0,
+Hamadan Province,Iran,175.0,
+Kerman Province,Iran,169.0,
+North Khorasan Province,Iran,165.0,
+Hormozgan Province,Iran,148.0,
+Sistan and Baluchestan Province,Iran,134.0,
+Kohgiluyeh and Boyer-Ahmad Province,Iran,73.0,
+Chaharmahal and Bakhtiari Province,Iran,68.0,
+Bushehr Province,Iran,55.0,
+Flanders,Belgium,30178.0,
+Wallonia,Belgium,17366.0,
+Brussels,Belgium,5507.0,
+Vaud,Switzerland,5425.0,389.0
+Geneva,Switzerland,5123.0,259.0
+Zurich,Switzerland,3592.0,124.0
+Ticino,Switzerland,3287.0,269.0
+Valais,Switzerland,1905.0,146.0
+Canton of Bern,Switzerland,1874.0,90.0
+Aargau,Switzerland,1194.0,36.0
+Fribourg,Switzerland,1152.0,80.0
+Basel City,Switzerland,976.0,50.0
+Basel-Landschaft,Switzerland,838.0,32.0
+Grisons,Switzerland,824.0,45.0
+St. Gallen,Switzerland,807.0,33.0
+Lucerne,Switzerland,733.0,18.0
+Neuchatel,Switzerland,722.0,77.0
+Solothurn,Switzerland,439.0,15.0
+Thurgau,Switzerland,380.0,17.0
+Schwyz,Switzerland,307.0,22.0
+Jura,Switzerland,203.0,7.0
+Canton of Zug,Switzerland,199.0,8.0
+Glarus,Switzerland,128.0,12.0
+Nidwalden,Switzerland,123.0,3.0
+Appenzell Ausserrhoden,Switzerland,99.0,3.0
+Uri,Switzerland,93.0,7.0
+Obwalden,Switzerland,79.0,0.0
+Schaffhausen,Switzerland,78.0,6.0
+Appenzell Innerrhoden,Switzerland,25.0,
+Stockholm County,Sweden,10777.0,
+Vastra Gotaland County,Sweden,4530.0,
+Ostergotland County,Sweden,1802.0,
+Uppsala County,Sweden,1561.0,
+Orebro County,Sweden,1537.0,
+Sodermanland County,Sweden,1525.0,
+Skane County,Sweden,1344.0,
+Jonkoping County,Sweden,1216.0,
+Vastmanland County,Sweden,1064.0,
+Dalarna County,Sweden,1064.0,
+Gavleborg County,Sweden,1027.0,
+Kronoberg County,Sweden,665.0,
+Halland County,Sweden,587.0,
+Jamtland County,Sweden,544.0,
+Vasternorrland County,Sweden,494.0,
+Vasterbotten County,Sweden,437.0,
+Varmland County,Sweden,347.0,
+Norrbotten County,Sweden,343.0,
+Kalmar County,Sweden,264.0,
+Blekinge County,Sweden,109.0,
+Gotland County,Sweden,67.0,
+Capital Region of Denmark,Denmark,6360.0,
+Region Zealand,Denmark,1803.0,
+Central Denmark Region,Denmark,1585.0,
+Region of Southern Denmark,Denmark,984.0,
+North Denmark Region,Denmark,430.0,
+,France,144921.0,28367.0
+Santiago Metropolitan Region,Chile,51399.0,
+Valparaiso,Chile,2116.0,44.0
+Antofagasta,Chile,1897.0,21.0
+Araucania,Chile,1774.0,45.0
+Tarapaca,Chile,1471.0,5.0
+Bio Bio,Chile,1354.0,10.0
+Nuble,Chile,1077.0,21.0
+Magallanes and Chilean Antarctica,Chile,997.0,
+Maule,Chile,823.0,15.0
+Los Lagos,Chile,727.0,13.0
+"b""O'Higgins""",Chile,518.0,11.0
+Arica y Parinacota,Chile,482.0,7.0
+Coquimbo,Chile,294.0,2.0
+Los Rios,Chile,274.0,6.0
+Atacama,Chile,182.0,0.0
+Aysen,Chile,8.0,0.0
